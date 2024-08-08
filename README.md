@@ -53,3 +53,8 @@ This PowerShell script creates a graphical user interface (GUI) to retrieve info
   ## Notes
 - Modify the directory paths in the script if necessary.
 - Ensure you have the necessary permissions to query Active Directory and WMI.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
