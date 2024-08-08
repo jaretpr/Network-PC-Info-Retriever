@@ -24,7 +24,7 @@ This PowerShell script creates a graphical user interface (GUI) to retrieve info
      ```
 
 2. **Place the Script:**
-   - Place the `NetworkPCInfoRetriever.ps1` script in your desired directory.
+   - Place the `Network_PC_Info_Retriever.ps1` script in your desired directory.
 
 ## Usage Instructions
 1. **Open PowerShell with Administrative Privileges:**
