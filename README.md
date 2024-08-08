@@ -48,7 +48,7 @@ This PowerShell script creates a graphical user interface (GUI) to retrieve info
 - **Input Directory:** Stores the PC names file.
 - Default: **'C:\Active Directory Reports\Input'**
 - **Output Directory:** Stores the PC hardware information file.
-- Default: **'C:\Active Directory Reports\Output'
+- Default: **'C:\Active Directory Reports\Output'**
 
   ## Notes
 - Modify the directory paths in the script if necessary.
